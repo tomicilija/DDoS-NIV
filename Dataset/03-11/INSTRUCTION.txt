@@ -1,0 +1,5 @@
+Download dataset from (valid until 30.12.2021) : https://www.sendtransfer.com/download.php?id=2d2b671292c8627eacaab7159a27f494
+
+OR directly form :https://www.unb.ca/cic/datasets/ddos-2019.html (server path : CSVs/CSV-03-11.zip)
+
+And save here 
